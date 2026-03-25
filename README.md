@@ -6,8 +6,9 @@ Frontend Engineer with 3+ years of experience building responsive web and mobile
 ### : About Me 
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [TCS](tcs.com).
-- 🧭 I love exploring and working both in frontend and backend.
-- 📫 How to reach me: Check social links below.
+- 🧭 Passionate about building intuitive web and mobile applications and exploring both frontend and backend development.
+- 🌱 Continuously learning new technologies and improving full-stack skills.
+- 📫 Reach me via the social links below.
 
 
 ### :hammer_and_wrench: Languages and Tools 
@@ -21,8 +22,9 @@ Frontend Engineer with 3+ years of experience building responsive web and mobile
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>  
 
