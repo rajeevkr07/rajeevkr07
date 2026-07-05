@@ -5,7 +5,7 @@ Frontend Engineer with 3+ years of experience building responsive web and mobile
 
 ### : About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [TCS](tcs.com).
+- 💼 I’m currently working as a <strong>Software Engineer (Frontend Developer)</strong> 
 - 🧭 Passionate about building intuitive web and mobile applications and exploring both frontend and backend development.
 - 🌱 Continuously learning new technologies, including AI, while improving full-stack skills.
 - 📫 Reach me via the social links below.
